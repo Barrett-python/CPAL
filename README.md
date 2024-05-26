@@ -12,3 +12,7 @@ Coming soon!!!
   year={2024}
 }
 ```
+
+## 6. Acknowledgement
+We are very grateful for these excellent works [SIPE](https://github.com/chenqi1126/SIPE), [CLIP-ES](https://github.com/linyq2117/CLIP-ES) and [SFC](https://github.com/Qiming-Huang/ssformer), which have provided the basis for our framework.
+
